@@ -1,0 +1,61 @@
+
+nav_s {
+    bg: #808080;
+}
+
+navBtn_s {
+    bg: #EFEFEF;
+    fg: #1E392A;
+    relief: solid;
+    bd: 0;
+    font: 'Arial', 10;
+    justify: left;
+    anchor: w;
+    padx: 70;
+}
+
+head_s {
+    bg: #3CC47C;
+}
+
+titleMain_s {
+    font: 'Verdana', 14;
+    bg: #3CC47C;
+    anchor: w;
+    fg: white;
+    padx: 60;
+}
+
+article_s {
+    bg: white;
+    highlightthickness: 1;
+    highlightbackground: #E9C893;
+}
+
+label_light_s {
+    bg: #E9E9E9;
+}
+
+h1_s {
+    bg: white;
+    font: 'Verdana' 14 underline;
+}
+
+homeBtn_s {
+    bg: #3CC47C;
+    highlightthickness: 0;
+    bd: 0;
+    activebackground: #3CC47C;
+}
+
+try_it_btn_s {
+    text: TRY IT;
+    fg: #3CC47C;
+    font: 'Verdana', 7;
+    highlightbackground: #1E392A;
+    bg: white;
+    relief: solid;
+    bd: 0.5;
+    activebackground: white;
+    activeforeground: #3CC47C;
+}

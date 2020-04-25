@@ -1,0 +1,26 @@
+Container Widgets:
+	Frame, 1
+	LabelFrame, 2
+	Canvas 3
+
+Text Widgets:
+	Label, 4
+	Message, 5
+	Text 6
+
+Input Widgets:
+	Button, 7
+	Entry, 8
+	Listbox, 9
+	Menubutton, 10
+	OptionMenu, 11
+	Checkbutton, 12
+	RadioButton, 13
+	Spinbox 14
+
+Window Widgets:
+	Tk, 15
+	Menu, 16
+	Toplevel, 17
+	PanedWindow, 18
+
